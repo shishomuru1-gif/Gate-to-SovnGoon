@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Gate to SovnGoon",
+    "description": "A Gate to Sovngarde-based overhaul combining over a dozen collections plus hundreds of changes. Includes a SFW profile, Gate to SovnGoon Jr's. MO2/Wabbajack version of the Nexus collection.",
+    "author": "MrFuddyDuddy",
+    "maintainers": ["shishomuru1-gif"],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": ["Overhaul"],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/shishomuru1-gif/Gate-to-SovnGoon/main/GTS%20Thumbnail%201920x1080.webp",
+      "readme": "https://github.com/shishomuru1-gif/Gate-to-SovnGoon#readme",
+      "download": "PASTE-CDN-LINK-HERE",
+      "machineURL": "GateToSovnGoon",
+      "discordURL": ""
+    },
+    "download_metadata": {"Hash":"dyuhS5gcQKI=","Size":50893370,"NumberOfArchives":3690,"SizeOfArchives":151292613960,"NumberOfInstalledFiles":782767,"SizeOfInstalledFiles":287417558742,"TotalSize":438710172702},
+    "version": "1.0.0"
+  }
+]
